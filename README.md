@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My Pet Projects
+
+- [http://awesomeburner.com](AwesomeBurner.com) - simplest RSS aggregator based on [https://github.com/vanzhiganov/NewsArggregator](NewsArggregator)
+- [http://glavpodcast.com](Glavpodcast.com) - podcast aggregator
+
 <!--
 **vanzhiganov/vanzhiganov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
