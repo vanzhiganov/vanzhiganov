@@ -5,6 +5,12 @@ My Pet Projects
 - [AwesomeBurner.com](http://awesomeburner.com) - simplest RSS aggregator based on [NewsArggregator](https://github.com/vanzhiganov/NewsArggregator)
 - [Glavpodcast.com](http://glavpodcast.com) - podcast aggregator
 
+Infra Projects
+
+- [9REDMINE.COM](https://9redmine.com)
+- [GIT.ORG.RU](https://git.org.ru)
+- [BUILD.ORG.RU](https://build.org.ru)
+
 <!--
 **vanzhiganov/vanzhiganov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
