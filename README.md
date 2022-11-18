@@ -11,6 +11,14 @@ Infra Projects
 - [GIT.ORG.RU](https://git.org.ru)
 - [BUILD.ORG.RU](https://build.org.ru)
 
+Programing Languages
+
+- Python
+- Golang
+- PHP
+- SQL (MySQL, Postgresql)
+- NoSQL (CouchDB, MongoDB)
+
 <!--
 **vanzhiganov/vanzhiganov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
