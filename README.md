@@ -4,7 +4,6 @@ My Pet Projects
 
 - [AwesomeBurner.com](http://awesomeburner.com) - simplest RSS aggregator based on [NewsArggregator](https://github.com/vanzhiganov/NewsArggregator)
 - [Glavpodcast.com](http://glavpodcast.com) - podcast aggregator
-- [Poisk.me](http://poisk.me)
 
 Infra Projects
 
