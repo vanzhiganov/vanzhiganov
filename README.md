@@ -21,6 +21,10 @@ Stack
 - SQL (MySQL, Postgresql)
 - NoSQL (CouchDB, MongoDB)
 
+Blog
+
+- https://medium.com/@vanzhiganov
+
 <!--
 **vanzhiganov/vanzhiganov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
