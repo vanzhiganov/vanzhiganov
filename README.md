@@ -11,11 +11,13 @@ Infra Projects
 - [GIT.ORG.RU](https://git.org.ru)
 - [BUILD.ORG.RU](https://build.org.ru)
 
-Programing Languages
+Stack
 
 - Python
 - Golang
 - PHP
+- C++
+- C#
 - SQL (MySQL, Postgresql)
 - NoSQL (CouchDB, MongoDB)
 
