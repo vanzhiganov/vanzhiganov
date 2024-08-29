@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My Pet Projects
+Pet Projects
 
 - [AwesomeBurner.com](http://awesomeburner.com) - simplest RSS aggregator based on [NewsArggregator](https://github.com/vanzhiganov/NewsArggregator)
 - [Glavpodcast.com](http://glavpodcast.com) - podcast aggregator
@@ -24,6 +24,8 @@ Stack
 
 Social
 
-- https://medium.com/@vanzhiganov
-- https://twitter.com/vanzhiganov
-- https://t.me/vanzhiganov
+- [https://medium.com/@vanzhiganov](https://medium.com/@vanzhiganov)
+- [https://x.com/vanzhiganov](https://x.com/vanzhiganov)
+- [https://t.me/vanzhiganov](https://t.me/vanzhiganov)
+
+[![Visits Badge](https://badges.pufler.dev/visits/vanzhiganov/vanzhiganov)](https://badges.pufler.dev)
