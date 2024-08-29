@@ -29,4 +29,5 @@ Social
 - [https://x.com/vanzhiganov](https://x.com/vanzhiganov)
 - [https://t.me/vanzhiganov](https://t.me/vanzhiganov)
 
-[![Visits Badge](https://badges.pufler.dev/visits/vanzhiganov/vanzhiganov)](https://badges.pufler.dev)
+![Visitor Count](https://profile-counter.glitch.me/vanzhiganov/count.svg)
+
