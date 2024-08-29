@@ -4,6 +4,7 @@ Pet Projects
 
 - [AwesomeBurner.com](http://awesomeburner.com) - simplest RSS aggregator based on [NewsArggregator](https://github.com/vanzhiganov/NewsArggregator)
 - [Glavpodcast.com](http://glavpodcast.com) - podcast aggregator
+- [LeWord Android App](https://www.rustore.ru/catalog/app/net.leword.cards.net.leword.cards) - Android app for learning English words
 
 Infra Projects
 
