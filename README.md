@@ -8,7 +8,7 @@ Pet Projects
 
 Infra Projects
 
-- [9REDMINE.COM](https://9redmine.com)
+- [9REDMINE.COM](https://9redmine.com) - is closed
 - [GIT.ORG.RU](https://git.org.ru)
 - [BUILD.ORG.RU](https://build.org.ru)
 - [DOCKER.ORG.RU](https://docker.org.ru)
